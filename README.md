@@ -1,4 +1,4 @@
-#A leksi Duluzauri Portfolio
+# Aleksi Duluzauri Portfolio
 
 ## Description
 
