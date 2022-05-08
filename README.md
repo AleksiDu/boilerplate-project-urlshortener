@@ -1,5 +1,5 @@
-#Aleksi Duluzauri Portfolio
+#A leksi Duluzauri Portfolio
 
-##Description
+## Description
 
 This is a Free Code Camp Back End Development and APIs Projects. First project is: *URL Shortener Microservice*
